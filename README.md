@@ -9,7 +9,7 @@
 [![Gitter](https://img.shields.io/gitter/room/lambci/lambci.svg)](https://gitter.im/lambci/lambci)
 
 
----
+---------
 
 Automate your testing and deployments with:
 
