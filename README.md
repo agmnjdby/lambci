@@ -20,7 +20,7 @@ Automate your testing and deployments with:
 
 ---
 
-## Contents
+## Contents Lambci
 
 * [Overview](#what-is-it)
 * [Installation](#installation)
