@@ -1,6 +1,6 @@
 <img align="left" src="https://lambci.s3.amazonaws.com/assets/logo-310x310.png" width="180px" height="180px">
 
-# LambCI
+# LambCI AG
 
 *Serverless continuous integration*
 
